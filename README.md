@@ -1,16 +1,3 @@
-# loginanimation
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (396)](https://github.com/user-attachments/assets/77d24ccf-a831-4a29-8a67-008e0305b232)
+![Screenshot (395)](https://github.com/user-attachments/assets/6ae4169b-63d4-448e-b58c-8590861b435b)
+![Screenshot (394)](https://github.com/user-attachments/assets/db801dd8-e63f-4ea0-9b63-42477e65e1d2)
